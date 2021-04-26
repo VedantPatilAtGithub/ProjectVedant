@@ -1,0 +1,8 @@
+
+h1{
+    color: brown;
+}
+
+table, th, td {
+    border: 3px solid rgb(116, 90, 90);
+  }
